@@ -1,0 +1,33 @@
+{
+  "seo": {
+    "type": "website",
+    "title": "RKA Law College Begusarai",
+    "jsonLDs": [],
+    "noIndexing": false,
+    "description": "The college has been imparting legal education up to LLB Standard and prepares its students to stand on their own legs. The college started functioning in year 1979 in the building of local Ayodhya High School(Gyan Bharti) Begusarai and within 05 years it was sifted in its own building located in the heart of Begusarai town at a stone throw distance from Dist. Civil court campus, Begusarai. Ram Kumari Ayodhya Law College Begusarai, took its birth in year 1979, to commemorate late Babu Ayodhya Prasad Singh and his wife late Smt. Ram Kumari Devi The college was granted temporary affiliation by the state govt. In year 1981 for three academic years i.e. from 1980-81 to 82-83 and it was further extended in year1989-for five years with retrospective effect. The period of affiliation was again extended for five academic sessions up to year 1992-93 The state govt. was pleased to grant permanent, affiliation year 1995 and the college at prosed is only law college under L.N. Mithila University having permanent affiliation and the affiliation has been approved by Bar Council of India",
+    "titleTemplate": "RKA Law College Begusarai",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/f5603dbc-ee36-4864-aaf3-ea52b257d5b2",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/9c94b074-ae4d-4b63-a20b-7d48ce69971a"
+  },
+  "global": [
+    {
+      "__resolveType": "htmx/sections/htmx.tsx"
+    }
+  ],
+  "routes": [
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    }
+  ],
+  "caching": {
+    "directives": []
+  },
+  "__resolveType": "site/apps/site.ts",
+  "firstByteThresholdMS": false,
+  "theme": {
+    "__resolveType": "Serene Coastline"
+  }
+}
